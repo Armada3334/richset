@@ -8,7 +8,7 @@ A rich presence app which allows a user to set whatever they'd like on their pro
 
 My code is decently documented. Read through and replace things with what you want instead. I have a few examples in the testing folder if you're lost or dont want to read the pypresence github
 
-[Examples](https://github.com/Armada3334/richset/tree/main/testing)
+[Examples](https://github.com/Armada3334/richset/tree/main/examples)
 
 ## The client_id.txt file
 
