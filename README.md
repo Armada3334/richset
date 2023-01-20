@@ -2,7 +2,7 @@
 
 A rich presence app which allows a user to set whatever they'd like on their profile based on the pypresence package.
 
-## [Pypresence](https://github.com/qwertyquerty/pypresence)
+[Pypresence](https://github.com/qwertyquerty/pypresence)
 
 # How to use
 
